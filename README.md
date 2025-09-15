@@ -37,3 +37,19 @@ The study aimed to determine which factors best predict stress responses and whe
 - **Baseline cortisol and DASS scores** were stronger predictors of stress outcomes than subluxation scores or treatment groups.  
 - Results for **children’s data** were inconclusive, indicating the need for larger samples and longer-term studies.  
 - Overall, findings suggest cortisol response may be more biologically driven and less impacted by short-term chiropractic care.
+
+## 7. Jupyter Notebook files:
+- `Subluxation_Data_Preprocessing.ipynb`: Preprocessing the subluxation data.
+- `Exploratory_Analysis.ipynb`: Exploring the data (for example, examining differences in the control and intervention groups).
+- `Mixed_Models_Adults.ipynb`: Exploring Linear Mixed Models for adult age group.
+- `Mixed_Models_Children.ipynb`: Exploring Linear Mixed Models for children.
+- `Predictive_Modelling_Adults`: Predictive Models (SVR, RF, GB) for adults.
+- `Predictive_Modelling_Children`: Predictive Models (SVR, RF, GB) for children.
+
+## 8. Data Files include the raw patient data, which has been de-identified:
+- `Patient Management Active 03102022 Only ID.xlsx`: Chiropractic sessions data for the group that actually received chiropractic treatment (Active Group).
+- `Patient Management Passive 03102022 Only ID.xlsx`: Chiropractic sessions data for the group that received "sham" chiropractic treatment (Passive Group).
+- `Saliva and Blood cortisol AI Prediction 28032025.xlsx`: Saliva and Blood Cortisol levels for adult patients.
+- `DASS Total Score 18082023 IA_1.xlsx`: DASS Scores for adults.
+- `Hair Samples & saliva results After EXCL-Kids 26042023.xlsx`: Saliva and Hair Cortisol levels for children.
+  
