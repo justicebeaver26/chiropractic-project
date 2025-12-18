@@ -30,7 +30,13 @@ The study aimed to determine which factors best predict stress responses and whe
 ## 5. Dashboards Showing Key Metrics  
 - Comparative plots of cortisol and DASS scores before, during, and after intervention.  
 - Visualizations of model performance and feature importance.  
-- Separate dashboards for adults vs children to highlight differences.  
+- Separate dashboards for adults vs children to highlight differences.
+
+  ## 📄 Full Project Report
+
+The complete methodology, statistical analysis, model evaluation, and discussion of results are available in the full project report:
+
+👉 **[View Full Project Report (PDF)](chiropractic-project/Report/MannatAhuja_Full_Report.pdf)**
 
 ## 6. Conclusion  
 - **Cortisol levels** increased post-intervention, while **DASS-21 scores** declined — suggesting different physiological and psychological responses.  
