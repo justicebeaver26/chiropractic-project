@@ -27,16 +27,33 @@ The study aimed to determine which factors best predict stress responses and whe
   - Gradient Boosting  
   - Support Vector Regression (SVR)  
 
-## 5. Dashboards Showing Key Metrics  
-- Comparative plots of cortisol and DASS scores before, during, and after intervention.  
-- Visualizations of model performance and feature importance.  
-- Separate dashboards for adults vs children to highlight differences.
+## 5. Dashboards Showing Key Metrics (A Glimpse)
+**Count of Adults and Children in Active and Passive Groups**
+
+![Count of Participants](Images/Count_Graph.png)
+
+
+**Trends in Average Subluxation Over 36 Sessions of Chiropractic Care**
+
+![Subluxation](Images/LineGraph.png)
+
+
+**Number of Session Visits in Children and Adults (Children dropped out quicker than adults)**
+
+![Children](Images/SessionVisits_Children.png)
+![Adults](Images/SessionVisits_Adults.png)
+
+
+**Box Plots for Stress Indicators in Children and Adults at 3 Time-Points (Below is an Example for Saliva Cortisol in Adults)**
+
+![SalivaCortisol](Images/SalivaCortisol_BoxPlot.png)
+
 
 ### Full Project Report
 
 The complete methodology, statistical analysis, model evaluation, and discussion of results are available in the full project report:
 
-👉 **[View Full Project Report (PDF)](Report/MannatAhuja_Full_Report.pdf)**
+**[View Full Project Report (PDF)](Report/MannatAhuja_Full_Report.pdf)**
 
 ## 6. Conclusion  
 - **Cortisol levels** increased post-intervention, while **DASS-21 scores** declined — suggesting different physiological and psychological responses.  
