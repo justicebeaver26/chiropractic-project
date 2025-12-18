@@ -36,7 +36,7 @@ The study aimed to determine which factors best predict stress responses and whe
 
 The complete methodology, statistical analysis, model evaluation, and discussion of results are available in the full project report:
 
-👉 **[View Full Project Report (PDF)](chiropractic-project/Report/MannatAhuja_Full_Report.pdf)**
+👉 **[View Full Project Report (PDF)](chiropractic-project/Report/MannatAhuja_Full_Report)**
 
 ## 6. Conclusion  
 - **Cortisol levels** increased post-intervention, while **DASS-21 scores** declined — suggesting different physiological and psychological responses.  
