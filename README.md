@@ -32,7 +32,7 @@ The study aimed to determine which factors best predict stress responses and whe
 - Visualizations of model performance and feature importance.  
 - Separate dashboards for adults vs children to highlight differences.
 
-  ## 📄 Full Project Report
+### Full Project Report
 
 The complete methodology, statistical analysis, model evaluation, and discussion of results are available in the full project report:
 
